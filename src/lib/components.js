@@ -30,7 +30,6 @@ export {
     Drafts,
     Records,
     Managers,
-    PowerRankings,
     HomePost,
     Posts,
     Standings,
