@@ -11,7 +11,7 @@ import Pagination from './Pagination.svelte';
 import Drafts from './Drafts/index.svelte';
 import Records from './Records/index.svelte';
 import Managers from './Managers/index.svelte';
-import PowerRankings from './PowerRankings/index.svelte';
+//import PowerRankings from './PowerRankings/index.svelte';
 import HomePost from './BlogPosts/HomePost.svelte';
 import Posts from './BlogPosts/Posts.svelte';
 import Standings from './Standings/index.svelte';
