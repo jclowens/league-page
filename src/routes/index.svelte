@@ -1,7 +1,7 @@
 <script>
 	import LinearProgress from '@smui/linear-progress';
 	import { getNflState, cleanName, leagueName, homepageText, managers, gotoManager, enableBlog } from '$lib/utils/helper';
-	import { Transactions, PowerRankings, HomePost} from '$lib/components';
+	 <!-- import { Transactions, PowerRankings, HomePost} from '$lib/components'; -->
     import { getAwards } from "$lib/utils/helper"
 
     let nflState = getNflState();
@@ -158,9 +158,9 @@
                 <HomePost />
             {/if}
         </div>
-        <PowerRankings />
+      <!--   <PowerRankings /> -->
     </div>
-    
+  
     <div class="leagueData">
         <div class="homeBanner">
             {#await nflState}
