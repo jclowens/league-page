@@ -8,7 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
 <p> New Dynasty page to preview sleeper league. Going to continue to work on this a bit</p>
-<p> -Justin</p>
+<p> -Justin-</p>
 `;
 
 /*   STEP 3   */
