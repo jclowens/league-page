@@ -6,6 +6,7 @@ import {getLeagueRosters} from './helperFunctions/leagueRosters';
 import {getLeagueUsers} from './helperFunctions/leagueUsers';
 import {getLeagueMatchups} from './helperFunctions/leagueMatchups'
 import {getNews, stringDate} from './helperFunctions/news';
+import {getNewsT, stringDate} from './helperFunctions/newsT';
 import {loadPlayers} from './helperFunctions/players';
 import { waitForAll } from './helperFunctions/multiPromise';
 import { getUpcomingDraft, getPreviousDrafts } from './helperFunctions/leagueDrafts'
@@ -29,6 +30,7 @@ export {
     getLeagueUsers,
     getLeagueMatchups,
     getNews,
+    getNewsT,
     loadPlayers,
     waitForAll,
     getUpcomingDraft,
